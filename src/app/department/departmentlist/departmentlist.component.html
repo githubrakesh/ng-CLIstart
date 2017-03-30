@@ -1,0 +1,20 @@
+<section *ngIf="errorMessage">
+  {{errorMessage}}
+</section>
+<md-list dense>
+  <md-list-item *ngFor="let department of departments" (click)="showInfo(department)">
+
+    <img md-list-avatar src="" alt="{{department.name}}">
+
+    <md-icon md-list-icon>face</md-icon>
+    <h3 md-line> {{department.name}} </h3>
+    <p md-line>
+      <span> Modified on: {{department.modifiedDate | date}} </span>
+    </p>
+  </md-list-item>
+</md-list>
+
+
+<button md-fab (click)="addDepartment()">
+   <md-icon>add</md-icon>
+</button>
