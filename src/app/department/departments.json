@@ -1,0 +1,82 @@
+[
+    {
+        "departmentId": 1,
+        "name": "Engineering",
+        "modifiedDate": "2002-06-01T00:00:00"
+    },
+    {
+        "departmentId": 2,
+        "name": "Tool Design",
+        "modifiedDate": "2002-06-01T00:00:00"
+    },
+    {
+        "departmentId": 3,
+        "name": "Sales",
+        "modifiedDate": "2002-06-01T00:00:00"
+    },
+    {
+        "departmentId": 4,
+        "name": "Marketing",
+        "modifiedDate": "2002-06-01T00:00:00"
+    },
+    {
+        "departmentId": 5,
+        "name": "Purchasing",
+        "modifiedDate": "2002-06-01T00:00:00"
+    },
+    {
+        "departmentId": 6,
+        "name": "Research and Development",
+        "modifiedDate": "2002-06-01T00:00:00"
+    },
+    {
+        "departmentId": 7,
+        "name": "Production",
+        "modifiedDate": "2002-06-01T00:00:00"
+    },
+    {
+        "departmentId": 8,
+        "name": "Production Control",
+        "modifiedDate": "2002-06-01T00:00:00"
+    },
+    {
+        "departmentId": 9,
+        "name": "Human Resources",
+        "modifiedDate": "2002-06-01T00:00:00"
+    },
+    {
+        "departmentId": 10,
+        "name": "Finance",
+        "modifiedDate": "2002-06-01T00:00:00"
+    },
+    {
+        "departmentId": 11,
+        "name": "Information Services",
+        "modifiedDate": "2002-06-01T00:00:00"
+    },
+    {
+        "departmentId": 12,
+        "name": "Document Control",
+        "modifiedDate": "2002-06-01T00:00:00"
+    },
+    {
+        "departmentId": 13,
+        "name": "Quality Assurance",
+        "modifiedDate": "2002-06-01T00:00:00"
+    },
+    {
+        "departmentId": 14,
+        "name": "Facilities and Maintenance",
+        "modifiedDate": "2002-06-01T00:00:00"
+    },
+    {
+        "departmentId": 15,
+        "name": "Shipping and Receiving",
+        "modifiedDate": "2002-06-01T00:00:00"
+    },
+    {
+        "departmentId": 16,
+        "name": "Executive",
+        "modifiedDate": "2002-06-01T00:00:00"
+    }
+]
